@@ -1,7 +1,8 @@
+[INS, DP2]
 Piaget Silves
 
 NursingAnne Simulator
-RESUSC ANNE SIMULATOR
+[OK, ] RESUSC ANNE SIMULATOR
 Complete SimStart Bag
 
 Piaget Viseu
